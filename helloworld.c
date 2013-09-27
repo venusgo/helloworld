@@ -2,5 +2,6 @@
 
 public void main 
 {
+	printf("insert");
 	printf("hello");
 }
